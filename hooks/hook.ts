@@ -21,6 +21,7 @@ Before(async function () {
     //Before browser launch 
 
     console.log("git")
+    console.log("git1")
 })
 
 After(async function (scenario) {
