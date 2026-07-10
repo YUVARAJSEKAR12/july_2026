@@ -23,6 +23,7 @@ Before(async function () {
     console.log("git")
     console.log("git1")
     console.log("git3")
+    console.log("git4")
 })
 
 After(async function (scenario) {
