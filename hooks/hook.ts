@@ -24,6 +24,9 @@ Before(async function () {
     console.log("git1")
     console.log("git3")
     console.log("git4")
+    console.log("Yuvaraj")
+    console.log("Sekar")
+
 })
 
 After(async function (scenario) {
